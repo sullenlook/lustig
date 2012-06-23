@@ -1,7 +1,11 @@
 IJOKES IN DEUTSCH
 
-die .txt Datei ist schon in Deutsch übersetzt (evtl. noch ö,ä,ü zu oe,ae,ue), aber Problem mit dem Befehl, der Server will einfach nicht "Witz" verstehen hab so gut wie alle Kombinationen schon mal getestet... 
+Sag einfach "Kennst du ein Witz / Kennst du einen Witz / Erzähle einen Witz / Erzähle ein Witz / Einen Witz / Ein Witz" und Siri erzählt einen Witz.
 
-("de-DE",".*Kennst du ein Witz|Erzähle einen Witz|Ein Witz.*")
+So installierst Du dieses Plugin: 
 
-not working
+# 1: Lade den "lustig" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "lustig" in plugins.conf ein
+
+FERTIG
